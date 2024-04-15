@@ -20,6 +20,8 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
+Jenkins 
+
 node_modules
 coverage
 coverage.json

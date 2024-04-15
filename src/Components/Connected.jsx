@@ -21,7 +21,7 @@ const Connected = (props) => {
       {/* Sidebar */}
       <div className="sidebar bg-gray-900 text-white p-4 flex flex-col items-center justify-between">
         <div>
-          <h1 className="text-2xl font-semibold mb-4">Easy Vote</h1>
+          <h1 className="text-2xl font-semibold mb-4">Easy Vote3</h1>
           <button
             className={`sidebar-option w-full py-2 px-4 mb-2 rounded-md focus:outline-none ${
               selectedOption === "Vote" ? "bg-blue-500" : ""

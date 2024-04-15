@@ -6,7 +6,7 @@ const Login = (props) => {
       <div className="max-w-md w-full rounded-3xl shadow-lg bg-gradient-to-r from-indigo-500 to-blue-700 py-12 px-8 sm:px-12 lg:px-16">
         <div className="px-6 pt-6 pb-4">
           <h1 className="text-3xl font-bold text-center text-white">
-            Welcome to Web3 Voting App!
+            Welcome to Web3 Voting App Recording Working!
           </h1>
         </div>
         <div className="flex justify-center items-center">
